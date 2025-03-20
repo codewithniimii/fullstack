@@ -1,0 +1,3 @@
+const myProfile= {
+    name: ' Nimisha'
+}
