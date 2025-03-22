@@ -1,3 +1,5 @@
-const myProfile= {
-    name: ' Nimisha'
-}
+const myProfile = {
+    name: 'Nimisha'
+};
+
+console.log(myProfile.name);
