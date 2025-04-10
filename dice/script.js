@@ -4,7 +4,9 @@ var randomDiceImage = "dice" + randomNumber1 + ".png";
 
 var randomImageSource = "images/" + randomDiceImage;
 
-var image1 = document.querySelectorAll("img")[0];
+var image1 = document.querySelectorAll("img")[0]; 
+// Returns a NodeList (like an array) of all elements that match the given CSS selector.  O is for first image and 1 for second
+
 
 image1.setAttribute("src", randomImageSource);
 
